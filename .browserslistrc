@@ -1,0 +1,10 @@
+# Browsers that we support - Used by Babel,  Auto Prefixer, and Post CSS
+# https://github.com/browserslist/browserslist#best-practices
+# npx browserslist --config=".browserslistrc"  - run in project directory to see what browsers was selected by your queries
+# https://browserl.ist/
+# These are the browserslist defaults from index.js in repo:  > 0.5% last 2 versions Firefox ESR not dead
+> 0.5%
+last 2 versions
+Firefox ESR
+not dead
+#not ie <= 12
