@@ -1,0 +1,15 @@
+https://github.com/rwieruch/minimal-react-webpack-babel-setup/blob/master/package.json
+https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
+
+https://www.valentinog.com/blog/react-webpack-babel/
+
+https://medium.com/@siddharthac6/getting-started-with-react-js-using-webpack-and-babel-66549f8fbcb8
+
+Are Eslint errors working in browser? Get working is VS Code.
+Prettier configuration>
+
+https://flaviocopes.com/babel/
+
+SASS
+
+Get static subfolder with files of diff names
